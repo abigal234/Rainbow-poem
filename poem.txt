@@ -8,6 +8,7 @@ Orange
 Green
 Unicorn
 yellow
+Recycle
 Red
 These are the colours of rainbow.
 And the unicorn
